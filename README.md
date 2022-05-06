@@ -4,6 +4,8 @@ Polygon Photography
 ## Authors
 #Leader#
 - [@Julius Czar N. Furing](https://github.com/saisaia)
+
+
 #Member#
 
 - [@Kevin Gerona ](https://github.com/KevinGerona)
