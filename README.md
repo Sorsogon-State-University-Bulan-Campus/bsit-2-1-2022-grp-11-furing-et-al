@@ -1,4 +1,3 @@
-
 ## Title Project
 Polygon Photography 
 ## Authors
